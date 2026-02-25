@@ -1,0 +1,15 @@
+{
+  "name": "custom-elements",
+  "version": "1.0.0",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "npm run build -ws",
+    "dev": "npm run dev -ws"
+  },
+  "keywords": ["custom elements", "web components", "javascript", "HTML", "CSS"],
+  "author": "Badiuzzaman",
+  "license": "ISC",
+  "description": ""
+}
